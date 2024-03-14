@@ -1,0 +1,26 @@
+2024-03-13 00:59:43,768 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2024-03-13 00:59:43,800 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2024-03-13 00:59:43,804 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2024-03-13 00:59:43,830 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2024-03-13 00:59:43,830 INFO o.a.j.JMeter: Version 5.6.3
+2024-03-13 00:59:43,830 INFO o.a.j.JMeter: java.version=1.8.0_401
+2024-03-13 00:59:43,830 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2024-03-13 00:59:43,830 INFO o.a.j.JMeter: os.name=Windows 10
+2024-03-13 00:59:43,830 INFO o.a.j.JMeter: os.arch=amd64
+2024-03-13 00:59:43,830 INFO o.a.j.JMeter: os.version=10.0
+2024-03-13 00:59:43,830 INFO o.a.j.JMeter: file.encoding=Cp1252
+2024-03-13 00:59:43,831 INFO o.a.j.JMeter: java.awt.headless=null
+2024-03-13 00:59:43,831 INFO o.a.j.JMeter: Max memory     =1073741824
+2024-03-13 00:59:43,831 INFO o.a.j.JMeter: Available Processors =8
+2024-03-13 00:59:43,848 INFO o.a.j.JMeter: Default Locale=English (EN)
+2024-03-13 00:59:43,849 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2024-03-13 00:59:43,849 INFO o.a.j.JMeter: JMeterHome=C:\Users\user\Desktop\Anish_Mechlin_QA\apache-jmeter-5.6.3\apache-jmeter-5.6.3
+2024-03-13 00:59:43,849 INFO o.a.j.JMeter: user.dir  =C:\Users\user\Desktop\Anish_Mechlin_QA\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
+2024-03-13 00:59:43,850 INFO o.a.j.JMeter: PWD       =C:\Users\user\Desktop\Anish_Mechlin_QA\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
+2024-03-13 00:59:44,041 INFO o.a.j.JMeter: IP: 192.168.1.26 Name: DESKTOP-LDCAIQP FullName: 192.168.1.26
+2024-03-13 00:59:44,107 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2024-03-13 00:59:44,648 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2024-03-13 00:59:56,590 INFO o.a.j.s.FileServer: Default base='C:\Users\user\Desktop\Anish_Mechlin_QA\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin'
+2024-03-13 01:01:31,459 INFO o.a.j.e.KeyToolUtils: Exception checking for keytool existence, will return false, try another way.
+2024-03-13 01:01:32,185 INFO o.a.j.e.KeyToolUtils: keytool found at 'C:\Program Files\Java\jre-1.8\bin\keytool'
+2024-03-13 01:01:32,186 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\user\Desktop\Anish_Mechlin_QA\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin\proxyserver.jks
